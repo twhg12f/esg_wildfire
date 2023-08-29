@@ -112,6 +112,6 @@ const { value: contactAddress, attrs: contactAddressAttrs } = register('contactA
 
 <style scoped>
 .bg-forest {
-  background-image:url('/images/forest.png')
+  background-image:url('~/assets/images/forest.png')
 }
 </style>
